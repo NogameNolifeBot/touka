@@ -1,6 +1,4 @@
-# PokeAssistant
-
-https://github.com/CHamburr/PokeAssistant
+# NoganeNolife
 
 
-### Made by [CHamburr#2591](https://github.com/CHamburr/PokeAssistant)
+### Made by [Ichika™#3723](https://github.com/CHamburr/PokeAssistant)
